@@ -497,8 +497,87 @@
       "Wajir",
       "West Pokot"
     ]
-  }
-  
+  },
+  {
+    "country": "Lesotho",
+    "states": [
+      "Berea",
+      "Butha-Buthe",
+      "Leribe",
+      "Mafeteng",
+      "Maseru",
+      "Mohale's Hoek",
+      "Mokhotlong",
+      "Qacha's Nek",
+      "Quthing",
+      "Thaba-Tseka"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "states": [
+      "Bomi",
+      "Bong",
+      "Gbarpolu",
+      "Grand Bassa",
+      "Grand Cape Mount",
+      "Grand Gedeh",
+      "Grand Kru",
+      "Lofa",
+      "Margibi",
+      "Maryland",
+      "Montserrado",
+      "Nimba",
+      "River Cess",
+      "River Gee",
+      "Sinoe"
+    ]
+  },
+  {
+    "country": "Libya",
+    "states": [
+      "Al Butnan",
+      "Al Jabal al Akhdar",
+      "Al Jabal al Gharbi",
+      "Al Jfara",
+      "Al Jufrah",
+      "Al Kufrah",
+      "Al Marqab",
+      "Al Marj", 
+      "Al Wahat",
+      "An Nuqat al Khams",
+      "Az Zawiyah",
+      "Banghazi",
+      "Darnah",
+      "Ghat",
+      "Misratah",
+      "Murzuq",
+      "Nalut",
+      "Sabha",
+      "Surt",
+      "Tarabulus",
+      "Wadi ash Shati’"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "states": [
+      "Antananarivo",
+      "Antsiranana",
+      "Fianarantsoa",
+      "Mahajanga",
+      "Toamasina",
+      "Toliara"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "states": [
+      "Central Region",
+      "Northern Region",
+      "Southern Region"
+    ]
+  }  
   // Rest of countries
   
 ]
