@@ -577,7 +577,89 @@
       "Northern Region",
       "Southern Region"
     ]
-  }  
-  // Rest of countries
+  },  
+  {
+    "country": "Mali",
+    "states": [
+      "Bamako", 
+      "Gao",
+      "Kayes",
+      "Kidal",
+      "Koulikoro",  
+      "Mopti",
+      "Segou",
+      "Sikasso",
+      "Tombouctou"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "states": [
+      "Adrar",
+      "Assaba",
+      "Brakna",
+      "Dakhlet Nouadhibou", 
+      "Gorgol",
+      "Guidimaka",
+      "Hodh ech Chargui",
+      "Hodh el Gharbi",
+      "Inchiri",
+      "Nouakchott Nord",
+      "Nouakchott Ouest",
+      "Nouakchott Sud",
+      "Tagant",
+      "Tiris Zemmour",
+      "Trarza"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "states": [
+      "Agalega Islands",
+      "Black River",
+      "Cargados Carajos Shoals",
+      "Flacq",
+      "Grand Port",
+      "Moka",
+      "Pamplemousses",
+      "Plaines Wilhems",
+      "Port Louis",
+      "Riviere du Rempart",
+      "Rodrigues Island",
+      "Savanne" 
+    ]
+  },
+  {
+    "country": "Morocco",
+    "states": [
+      "Beni Mellal-Khenifra",
+      "Casablanca-Settat",
+      "Drak-Anfa",
+      "Fès-Meknès",
+      "Guelmim-Oued Noun",
+      "L'Oriental",
+      "Laâyoune-Sakia El Hamra",
+      "Marrakech-Safi",
+      "Rabat-Salé-Kénitra",
+      "Souss-Massa",
+      "Tanger-Tétouan-Al Hoceima"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "states": [
+      "Cabo Delgado",
+      "Gaza",
+      "Inhambane",
+      "Manica",
+      "Maputo",
+      "Nampula",
+      "Niassa",
+      "Sofala",
+      "Tete",
+      "Zambezia"
+    ]
+  }
   
+  // Rest of countries
 ]
